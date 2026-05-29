@@ -1,6 +1,6 @@
 # Proyecto de Gestión de Notificaciones (Listas Enlazadas Simples)
 
-Este proyecto implementa un gestor de notificaciones utilizando una estructura de datos de Lista Enlazada Simple creada desde cero en C#, sin usar colecciones de .NET (solo arreglos para UI y pruebas puntuales).
+Este proyecto implementa un gestor de notificaciones utilizando una estructura de datos de Lista Enlazada Simple creada desde cero en C#.
 
 ## Estructura del Proyecto
 
@@ -21,6 +21,5 @@ Este proyecto implementa un gestor de notificaciones utilizando una estructura d
 4. Puedes interactuar manualmente introduciendo montos (y posiciones) y viendo cómo la lista se actualiza visualmente, incluyendo mensajes en caso de errores y estado actual en formato texto arriba.
 5. **Para probar todos los casos de prueba requeridos de forma automatizada:**
 	* Haz clic en el botón superior derecho **"Ejecutar Casos de Prueba"**.
-	* Observa cómo el sistema vacea la lista y empieza a correr los 12 casos programados internamente, uno por uno.
-	* Los resultados indicando "PASA" o "FALLA" para cada caso de prueba se mostrarán de forma detallada en la bitácora debajo del botón.
-	* Puedes tomar una captura de pantalla a toda la interfaz mostrando qué pruebas han pasado desde la bitácora.
+	* El sistema vacea la lista y empieza a correr los 12 casos programados internamente, uno por uno.
+	* Los resultados indican "PASA" o "FALLA" para cada caso de prueba.
